@@ -239,3 +239,8 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,macos,jupyternotebooks
+
+### Node ###
+# нужен только для скрипта генерации картинок с код-сниппетами
+node_modules/
+package-lock.json

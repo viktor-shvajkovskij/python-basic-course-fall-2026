@@ -1,0 +1,5 @@
+product,price,in_stock,rating
+Ноутбук,50000,true,4.5
+Мышь,500,true,4.2
+Книга,1200,false,4.8
+Клавиатура,1500,true,4.0
